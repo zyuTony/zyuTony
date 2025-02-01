@@ -18,8 +18,7 @@ Beyond data science, I have a passion for **software development and financial m
 
 ## 📌 Current Projects  
 - **[FindTimeFrame](https://www.findtimeframe.com)** – An **interactive retail calendar** with **500+ active users**  
-- **[Eutra.co](https://www.eutra.co)** – A **crypto insights tool** for custom period performance comparisons  
-- **Market Data Pipeline** – Aggregating financial & crypto data from APIs like **CoinMarketCap, CoinGecko, Alpha Vantage**  
+- **[eutra.co](https://www.eutra.co)** – A **crypto insights tool** for custom period performance comparisons  
 
 ---
 
