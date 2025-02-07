@@ -21,30 +21,6 @@ Beyond data science, I have a passion for **software development and financial m
 - **[Eutra.co](https://www.eutra.co)** – A **crypto insights tool** for custom period performance comparisons  
 - **Market Data Pipeline** – Aggregating financial & crypto data from APIs like **CoinMarketCap, CoinGecko, Alpha Vantage**  
 
----
-
-## ⚡ Tech Stack  
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
-
-**ML & Data Tools:**  
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)  
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)  
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=flat&logo=mlflow&logoColor=white)  
-
-**Databases & Cloud:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-
----
-
-## 📫 Let's Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/z-yu)  
 💻 [GitHub](https://github.com/zyuTony)  
 ✉️ zongyuan1998@gmail.com  
-
-Always open to **collaborations, interesting projects, or just a good tech chat!** 🚀
